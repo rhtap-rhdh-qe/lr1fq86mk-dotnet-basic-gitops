@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: lr1fq86mk-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/lr1fq86mk-dotnet-basic
